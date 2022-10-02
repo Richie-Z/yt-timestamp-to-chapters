@@ -1,0 +1,45 @@
+00:00:00 - Pendahuluan
+00:01:49 - Pengenalan Spring
+00:10:27 - Membuat Project
+00:12:43 - Inversion of Control
+00:16:32 - Application Context
+00:23:47 - Singleton
+00:28:10 - Bean
+00:36:55 - Duplicate Bean
+00:42:50 - Primary Bean
+00:48:23 - Mengubah Nama Bean
+00:53:20 - Dependency Injection
+01:03:47 - Memilih Dependency
+01:07:51 - Circular Dependencies
+01:14:25 - Depends On
+01:20:54 - Lazy Bean
+01:24:29 - Scope
+01:31:34 - Membuat Scope
+01:44:44 - Life Cycle
+01:53:58 - Life Cycle Annotation
+02:02:57 - Import
+02:08:52 - Component Scan
+02:14:19 - Component
+02:21:54 - Constructor-based Dependency Injection
+02:29:06 - Setter-based Dependency Injection
+02:32:59 - Field-based Dependency Injection
+02:36:48 - Qualifier
+02:42:26 - Optional Dependency
+02:52:33 - Factory Bean
+03:00:28 - Inheritance
+03:05:07 - Bean Factory
+03:12:22 - Bean Post Processor
+03:23:58 - Ordered
+03:30:24 - Aware
+03:37:28 - Bean Factory Post Processor
+03:44:15 - Event Listener
+03:58:13 - Event Listener Annotation
+04:04:00 - Spring Boot Application
+04:11:49 - Startup Failure
+04:16:34 - Banner
+04:19:11 - Customizing Spring Application
+04:22:59 - Spring Application Event
+04:27:52 - Command Line Runner
+04:34:30 - Application Runner
+04:39:49 - Spring Boot Plugin
+04:46:31 - Materi Selanjutnya
